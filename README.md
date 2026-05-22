@@ -1,0 +1,1 @@
+# adal_marketing_designs
