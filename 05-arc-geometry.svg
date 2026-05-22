@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  <rect width="1080" height="1350" fill="#080808"/>
+  
+  <defs>
+    <pattern id="g5" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M 60 0 L 0 0 0 60" fill="none" stroke="white" stroke-width="0.7" opacity="0.09"/>
+    </pattern>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#g5)"/>
+  <defs>
+    <radialGradient id="ag" cx="777" cy="378" r="270" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#FF5898" stop-opacity="0.22"/><stop offset="1" stop-color="#FF5898" stop-opacity="0"/></radialGradient>
+  </defs>
+  <path d="M 777.0 680.0 A 302 302 0 0 1 683.7 90.8" fill="none" stroke="#FF5898" stroke-width="1.2" opacity="0.38"/>
+  <path d="M 658.9 838.1 A 475 475 0 0 1 522.5 -23.1" fill="none" stroke="#FF5898" stroke-width="0.9" opacity="0.2"/>
+  <path d="M 511.3 992.0 A 669 669 0 0 1 261.5 -48.4" fill="none" stroke="#FF5898" stroke-width="0.7" opacity="0.11"/>
+  <path d="M 848.4 558.4 A 194 194 0 1 1 848.4 197.6" fill="none" stroke="#FF5898" stroke-width="1.4" opacity="0.48"/>
+  <path d="M 864.4 441.5 A 108 108 0 1 1 864.4 314.5" fill="none" stroke="#FF5898" stroke-width="1.5" opacity="0.55"/>
+  <line x1="-33" y1="378" x2="1155" y2="378" stroke="#FF5898" stroke-width="0.7" stroke-dasharray="5 10" opacity="0.14"/>
+  <line x1="777" y1="-27" x2="777" y2="1350" stroke="#FF5898" stroke-width="0.7" stroke-dasharray="5 10" opacity="0.14"/>
+  <circle cx="777" cy="378" r="270" fill="url(#ag)"/>
+  <circle cx="777" cy="378" r="5.5" fill="#FF5898" opacity="0.9"/>
+  <circle cx="777" cy="378" r="2.5" fill="white"/>
+</svg>
