@@ -54,7 +54,7 @@ ls -lt ~/.adal-automation/output
   - `~/.adal-automation/logs/launchd.out.log`
   - `~/.adal-automation/logs/launchd.err.log`
 
-## Can your boss run this too?
+## How to run this?
 
-**Yes** — if she installs AdaL, logs in once, sets required env vars, and runs `install_launchd.sh` on her own Mac account.  
+Install AdaL, logs in once, set required env vars, and runs `install_launchd.sh` on Mac account.  
 The schedule and runtime paths are per-user (`$HOME`), so it works independently on each machine/user profile.
