@@ -1,0 +1,39 @@
+run discovery mode for instagram only
+
+goal:
+- in one long session, find relevant posts and draft exactly 3 comments total
+- do not post anything
+- output a review queue for me to approve later
+
+session behavior:
+- run as one continuous browsing window
+- browse naturally and gather context before drafting
+- prioritize relevance over volume
+- skip low-signal posts
+
+target topics:
+- ai coding tools
+- developer productivity
+- startup building
+- engineering workflow
+- design + dev collaboration
+
+comment rules:
+- STRICTLY follow the "CURRENT STYLE PROFILE" appended below
+- no product mention, no links, no promo language
+
+variety:
+- 1 comment = short reaction (4-8 words)
+- 1 comment = thoughtful add-on (1 sentence)
+- 1 comment = question-led (asks a real follow-up)
+
+output format:
+for each of the 3 drafts include:
+1) platform
+2) post link
+3) one-line summary of the post
+4) drafted comment
+5) why this comment fits
+
+final step:
+save all 3 drafts to a single today queue for review

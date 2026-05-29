@@ -1,0 +1,14 @@
+HARD STYLE CONSTRAINTS:
+- vary between upper case and lowercase (mix naturally capitalized sentences with all-lowercase ones)
+- no period at the end of the comment
+- avoid corporate wording (no buzzwords like "synergy", "leverage", "innovative solutions")
+- keep comments highly specific to the post content (reference exact details)
+
+TONE PATTERNS (Extracted from Approved Drafts):
+- Analytical but casual and direct
+- Pragmatic, uses tech shorthand ("prep move", "shipping", "safeguard removal")
+- Focuses on concrete implementation details and results rather than generic praise
+
+APPROVED COMMENT BANK (Reference Examples):
+1. "the safeguard removal result is telling"
+2. "the under-50-line function rule plus zero tribal knowledge docs is a strong prep move for reliable ai-assisted shipping"
